@@ -1,24 +1,18 @@
 # drones-fullstack-app
+System design
 
+![](./resources/diagram.jpeg)
 ## Project setup
 ```
 pnpm install
-```
-
-### Compiles and hot-reloads for development
-```
 pnpm run serve
-```
+cd backend
+pnpm i
+pnpm run dev
 
-### Compiles and minifies for production
-```
-pnpm run build
-```
+application dress (fe): http://localhost:8000
+backend adress (be): http://localhost:5000
 
-### Lints and fixes files
 ```
-pnpm run lint
-```
-
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
