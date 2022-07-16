@@ -1,0 +1,23 @@
+{
+  "name": "template",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "dev": "nodemon index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/hapi__joi": "^17.1.8",
+    "body-parser": "^1.20.0",
+    "celebrate": "^15.0.1",
+    "cors": "^2.8.5",
+    "mongoose": "^6.4.4",
+    "nodemon": "^2.0.18"
+  }
+}
