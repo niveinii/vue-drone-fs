@@ -144,7 +144,7 @@ export default {
     headers: [
       { text: 'Turbine Id', value: 'turbineId', sortable: false },
       { text: 'Turbine Status', value: 'turbineStatus', sortable: false },
-      { text: 'Last Turbine Check (days)', value: 'lastTurbineCheck', sortable: false },
+      { text: 'Last Turbine Check (dd/mm/yyyy)', value: 'lastTurbineCheck', sortable: false },
       { text: 'Request Check', value: 'requestCheck', sortable: false },
       { text: 'Actions', value: 'actions', sortable: false },
 
