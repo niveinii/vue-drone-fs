@@ -10,7 +10,7 @@ cd backend
 pnpm i
 pnpm run dev
 
-application dress (fe): http://localhost:8000
+application adress (fe): http://localhost:8000
 backend adress (be): http://localhost:5000
 
 ```
